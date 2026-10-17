@@ -344,6 +344,21 @@ These are potential future enhancements, not claims that the features are curren
 - **Backend:** PHP REST API
 - **Database:** MySQL
 
+
+## 📸 Screenshots
+
+<!-- Add your application screenshots below -->
+
+![Home Rent Service App](https://github.com/shahsabbir223902002/Home-Rent-Service/blob/main/Home%20Rent%20Service.jpeg)
+
+---
+
+## ⭐ Support
+
+If you find this project useful, consider giving the repository a ⭐ **Star**.
+
+Thank you for visiting the **Home Rent Service Application** repository! 🏠
+
 ## 📄 License
 
 No license has been specified yet. Add a `LICENSE` file before distributing the project publicly. If you intend to permit reuse, modification, and redistribution, choose an appropriate open-source license.
